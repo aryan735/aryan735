@@ -1,10 +1,10 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00F72E&center=true&vCenter=true&width=800&lines=Hello+World!+%F0%9F%8C%8E;I'm+Aryan+Raj+%F0%9F%91%8B;Spring+Boot+%7C+Microservices+%7C+Cloud+Native+Developer;Building+Scalable+Backend+Systems+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00F72E&center=true&vCenter=true&width=800&lines=Hello+World!+%F0%9F%8C%8E;I'm+Aryan+Raj+%F0%9F%91%8B;Spring+Boot+%7C+Microservices+%7C+Cloud+Developer;Building+Scalable+Backend+Systems+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
-![Banner](https://github.com/aryan735/aryan735/assets/79275192/0d5c7f8c-1c95-4e3e-8a9c-5b4f8e6f4d0a)
+![Typing GIF](https://github.com/aryan735/aryan735/assets/79275192/0d5c7f8c-1c95-4e3e-8a9c-5b4f8e6f4d0a)
 
 ---
 
