@@ -6,51 +6,46 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 Tech Stack
 
-💻 Passionate **Java Backend Developer** with expertise in **Spring Boot, Microservices, Kafka, Redis, MongoDB, Docker**, and more.  
-🌟 Crafting clean, scalable, and efficient code for real-world applications.  
-🎯 Constantly learning and contributing to **open source**!
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,docker,kubernetes,redis,kafka,mongodb,git,aws,linux,sonarqube,postgres,mysql" height="60" />
+</p>
 
----
+<div align="center">
+  
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-009688?logo=aws-lambda&logoColor=white&style=for-the-badge)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white&style=for-the-badge)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?logo=mysql&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?logo=sonarqube&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
 
-## 🛠️ Tech Stack
-
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-009688?logo=aws-lambda&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?logo=sonarqube&logoColor=white)
-
----
-
-## 🌟 Showcase Projects
-
-| Project | Tech Stack | Description |
-|---------|------------|-------------|
-| **[QuickClinic](https://github.com/aryan735/QuickClinic)** | Java, Spring Boot, JWT, Kafka | Scalable hospital management microservice |
-| **[Local-Connect](https://github.com/aryan735/Local-Connect)** | Java, Spring Boot, MongoDB, Redis, Kafka, Docker | Real-time local services booking platform |
-| **[Dellivery-Microservices](https://github.com/aryan735/Dellivery-Microservices)** | Java, Kafka, Spring Boot | Delivery microservice with Kafka producer-consumer |
-| **[JournalApp](https://github.com/aryan735/JournalApp)** | Java, Spring Boot, MongoDB, Kafka | Mental wellness journal with analytics |
-| **[Book-Store-API](https://github.com/aryan735/Book-Store-API)** | Java, Spring Boot, JWT | E-commerce backend with RBAC |
-| **[Employee-Management-System](https://github.com/aryan735/Employee-Management-System)** | HTML, Java | Employee records system |
-| **[Code-Analyzer](https://github.com/aryan735/Code-Analyzer)** | Java | Tool to analyze code metrics |
-| **[AI Email Generator](https://github.com/aryan735/Ai-Powered-Email-Reply-Generator)** | JavaScript | AI-powered email assistant |
-| **[Gemini-Ai-Chat-Bot](https://github.com/aryan735/Gemini-Ai-Chat-Bot)** | JavaScript | Chatbot powered by Gemini AI |
-| **[User-Management-System](https://github.com/aryan735/User-Management-System)** | JavaScript, React, Spring Boot | User management dashboard |
-| **[Hire-Hub](https://github.com/aryan735/Hire-Hub)** | Java | Worker-finder hiring platform |
-| **[Express-Book](https://github.com/aryan735/Express-Book)** | Java | Train reservation system |
-| **[Hotel-Rental-System](https://github.com/aryan735/Hotel-Rental-System)** | Java | Hotel booking management |
-| **[Hospital-Management-System](https://github.com/aryan735/Hospital-Management-System)** | Java | Basic hospital records system |
-| **[Amazon-Clone-](https://github.com/aryan735/Amazon-Clone-)** | HTML | Frontend Amazon clone |
-| **[Caculator](https://github.com/aryan735/Caculator)** | Java | Simple calculator app |
+</div>
 
 ---
 
-## 📈 GitHub Stats
+## 💼 Featured Projects
+
+| Project | Tech | Description |
+|---------|-------|-------------|
+| [QuickClinic](https://github.com/aryan735/QuickClinic) | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white) | Scalable hospital management microservice |
+| [Local-Connect](https://github.com/aryan735/Local-Connect) | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white) | Real-time service platform |
+| [Dellivery-Microservices](https://github.com/aryan735/Dellivery-Microservices) | ![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white) | Delivery service using Kafka |
+| [JournalApp](https://github.com/aryan735/JournalApp) | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) | Personal mental wellness tracker |
+| [AI Email Generator](https://github.com/aryan735/Ai-Powered-Email-Reply-Generator) | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) | AI-powered email assistant |
+
+---
+
+## 📈 GitHub Insights
 
 <div align="center">
 
@@ -59,20 +54,18 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryan735&layout=compact&theme=radical)
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=aryan735&theme=react-dark&hide_border=true&area=true)
-
 </div>
 
 ---
 
-## 📬 Connect With Me
+## 🌐 Connect With Me
 
-<div align="center">
+<p align="center">
+<a href="mailto:aryanraj.dev.net@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"></a>
+<a href="https://linkedin.com/in/aryanraj-tech"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"></a>
+<a href="https://leetcode.com/yourprofile"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge"></a>
+</p>
 
-[![Gmail](https://img.shields.io/badge/-aryanraj.dev.net@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:aryanraj.dev.net@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/yourprofile)
-
-![Visitor Count](https://komarev.com/ghpvc/?username=aryan735&color=blueviolet&style=flat)
-
-</div>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=aryan735&color=blueviolet&style=flat" />
+</p>
