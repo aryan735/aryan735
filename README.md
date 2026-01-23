@@ -41,7 +41,7 @@
 | [Local-Connect](https://github.com/aryan735/Local-Connect) | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white) | Real-time service platform |
 | [Dellivery-Microservices](https://github.com/aryan735/Dellivery-Microservices) | ![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white) | Delivery service using Kafka |
 | [JournalApp](https://github.com/aryan735/JournalApp) | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) | Personal mental wellness tracker |
-| [AI Email Generator](https://github.com/aryan735/Ai-Powered-Email-Reply-Generator) | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) | AI-powered email assistant |
+| [AI Email Generator](https://github.com/aryan735/Ai-Powered-Email-Reply-Generator) | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white) | AI-powered email assistant |
 
 ---
 
