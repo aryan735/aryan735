@@ -1,12 +1,11 @@
 <div align="center">
-
-<img src="https://media.giphy.com/media/4lu5FuhtrbaOQgKN57/giphy.gif" width="100%" height="250" alt="Gojo Satoru - Jujutsu Kaisen">
-
+  
 ---
 
 ## **Backend Engineer • Distributed Systems • Microservices • LLM Integrations**
 
 </div>
+<img src="https://media.giphy.com/media/4lu5FuhtrbaOQgKN57/giphy.gif" width="100%" height="250" alt="Gojo Satoru - Jujutsu Kaisen">
 
 ---
 
