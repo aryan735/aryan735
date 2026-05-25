@@ -187,7 +187,7 @@ I'm a backend engineer specializing in **distributed systems**, **microservices 
 
 <div align="center">
 
-[🔗 Repository](https://github.com/aryan735) • [🚀 Live ]([https://yojak-backend.onrender.com](https://yojak-frontend-v2-one.vercel.app/))
+[🔗 Repository](https://github.com/aryan735) • [🚀 Live](https://yojak-frontend-v2-one.vercel.app/)
 
 </div>
 
