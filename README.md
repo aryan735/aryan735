@@ -264,11 +264,6 @@ Production-grade retrieval augmented generation with semantic search, vector sto
 
 <div align="center">
 
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aryan735&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9cacc&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan735&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9cacc" />
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=aryan735&theme=tokyonight&hide_border=true&background=0d1117&ring=667eea&fire=764ba2&currStreakLabel=667eea)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 </div>
@@ -281,7 +276,7 @@ Production-grade retrieval augmented generation with semantic search, vector sto
 
 | 🎯 Certification | 🏢 Institution | 📅 Year |
 |:---------------:|:-------------:|:-----:|
-| **Bachelor of Computer Applications (BCA)** | — | 2025 |
+| **Bachelor of Computer Applications (BCA)** | IGNOU | 2025 |
 | **Java with Spring Boot & Microservices** | Ducat India | 2025 |
 
 </div>
